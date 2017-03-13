@@ -1,0 +1,46 @@
+
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 5px;		
+  color: #333;
+  background: #777;
+}
+
+#nav {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #777;
+}
+
+#sectionleft {
+	padding: 20px;
+	margin-bottom: 5px;
+	color: #333;
+	background: #777;
+	float: left;
+	width: 49%;
+}
+
+#aside {
+	padding: 20px;
+	margin-bottom: 5px;
+	color: #333;
+	background: #777;
+	float: left;
+	width: 50%;
+	margin-left: 10px;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  background: #777		;
+}
